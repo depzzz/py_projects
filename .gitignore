@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+bitcoin_price_notifier/bin/
+bitcoin_price_notifier/lib/
+bitcoin_price_notifier/api-keys.txt
+bitcoin_price_notifier/pyvenv.cfg
+bitcoin_price_notifier/.gitignore
+random_wikipedia_scraper/bin
+random_wikipedia_scraper/lib
+random_wikipedia_scraper/.gitignore
+random_wikipedia_scraper/pyvenv.cfg
