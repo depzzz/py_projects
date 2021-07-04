@@ -8,3 +8,6 @@ random_wikipedia_scraper/bin
 random_wikipedia_scraper/lib
 random_wikipedia_scraper/.gitignore
 random_wikipedia_scraper/pyvenv.cfg
+rock_paper_scissors/bin
+rock_paper_scissors/lib
+rock_paper_scissors/pyvenv.cfg
