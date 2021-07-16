@@ -11,3 +11,7 @@ random_wikipedia_scraper/pyvenv.cfg
 rock_paper_scissors/bin
 rock_paper_scissors/lib
 rock_paper_scissors/pyvenv.cfg
+django_projects/bin
+django_projects/lib
+django_projects/.gitignore
+django_projects/pyvenv.cfg
