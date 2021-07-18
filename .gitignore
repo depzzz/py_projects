@@ -15,3 +15,7 @@ django_projects/bin
 django_projects/lib
 django_projects/.gitignore
 django_projects/pyvenv.cfg
+5_minute_crafts/bin
+5_minute_crafts/lib
+5_minute_crafts/pyvenv.cfg
+5_minute_crafts/share
