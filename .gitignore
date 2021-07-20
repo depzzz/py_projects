@@ -19,3 +19,4 @@ django_projects/pyvenv.cfg
 5_minute_crafts/lib
 5_minute_crafts/pyvenv.cfg
 5_minute_crafts/share
+5_minute_crafts/__pycache__
